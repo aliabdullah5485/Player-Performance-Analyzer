@@ -167,9 +167,9 @@ Allow users to pass custom weights at runtime (e.g. `--steals-weight 3.0`) using
 
 ## 👤 Author
 
-**[Your Name]**  
+Ali Abdullah
 Computer Science Applicant — Habib University  
-[Your GitHub Profile] | [Your Email]
+aliabdullah5485 | aliabdullah5485@gmail.com
 
 ---
 
